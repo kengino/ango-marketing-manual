@@ -2,6 +2,6 @@
 
 Content:
 
-[ANGO Introduction](./introduction.md)
-[Maketing Volunteer Manual](./marketing-manual.md)
-[Prompt Engineering](./prompts.md)
+- [ANGO Introduction](./introduction.md)
+- [Maketing Volunteer Manual](./marketing-manual.md)
+- [Prompt Engineering](./prompts.md)
