@@ -44,6 +44,9 @@ Audience: Primarily Chinese-speaking audiences.
 Content: Detailed updates, concert ticketing, educational content.
 Posting Tips: Leverage bilingual posts when possible and create WeChat Moments for extended reach.
 
+### YouTube
+Audience: Broad demographic, including families and cultural enthusiasts, music learners.
+
 ## Roles and Responsibility 
 
 ### Key functions:
